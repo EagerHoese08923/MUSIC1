@@ -1,0 +1,53 @@
+{
+  "music1": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music1", "stream": true}]
+  },
+  "music2": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music2", "stream": true}]
+  },
+  "music3": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music3", "stream": true}]
+  },
+  "music4": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music4", "stream": true}]
+  },
+  "music5": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music5", "stream": true}]
+  },
+  "music6": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music6", "stream": true}]
+  },
+  "music7": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music7", "stream": true}]
+  },
+  "music8": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music8", "stream": true}]
+  },
+  "music9": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music9", "stream": true}]
+  },
+  "music10": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music10", "stream": true}]
+  },
+
+  "music11": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music11", "stream": true}]
+  },
+
+  "music12": {
+    "category": "music",
+    "sounds": [{"name": "mushoku_tensei:music12", "stream": true}]
+
+  }
+}
